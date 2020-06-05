@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/education-learning-app/static/css/main.1363f571.chunk.css",
-    "main.js": "/education-learning-app/static/js/main.c48c9e9c.chunk.js",
-    "main.js.map": "/education-learning-app/static/js/main.c48c9e9c.chunk.js.map",
+    "main.js": "/education-learning-app/static/js/main.4053a9d4.chunk.js",
+    "main.js.map": "/education-learning-app/static/js/main.4053a9d4.chunk.js.map",
     "runtime-main.js": "/education-learning-app/static/js/runtime-main.ca6cef49.js",
     "runtime-main.js.map": "/education-learning-app/static/js/runtime-main.ca6cef49.js.map",
     "static/js/2.ef9a3628.chunk.js": "/education-learning-app/static/js/2.ef9a3628.chunk.js",
     "static/js/2.ef9a3628.chunk.js.map": "/education-learning-app/static/js/2.ef9a3628.chunk.js.map",
     "index.html": "/education-learning-app/index.html",
-    "precache-manifest.a5a5065ee409c429442bdcb1c84dd91d.js": "/education-learning-app/precache-manifest.a5a5065ee409c429442bdcb1c84dd91d.js",
+    "precache-manifest.709f971615757d540637a3185b333866.js": "/education-learning-app/precache-manifest.709f971615757d540637a3185b333866.js",
     "service-worker.js": "/education-learning-app/service-worker.js",
     "static/css/main.1363f571.chunk.css.map": "/education-learning-app/static/css/main.1363f571.chunk.css.map",
     "static/js/2.ef9a3628.chunk.js.LICENSE.txt": "/education-learning-app/static/js/2.ef9a3628.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.ca6cef49.js",
     "static/js/2.ef9a3628.chunk.js",
     "static/css/main.1363f571.chunk.css",
-    "static/js/main.c48c9e9c.chunk.js"
+    "static/js/main.4053a9d4.chunk.js"
   ]
 }
