@@ -17,8 +17,8 @@ function App() {
         <AppBarComponent />
         <BrowserRouter>
           <Switch>
-            <Route exact path="/" component={Dashboard} />
-            <Route path="/video-player" component={PlayerComponent} />
+            <Route exact path="/home" component={Dashboard} />
+            <Route exact path="/video-player" component={PlayerComponent} />
           </Switch>
         </BrowserRouter>
    
