@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/education-learning-app/static/css/main.1363f571.chunk.css",
+    "main.js": "/education-learning-app/static/js/main.3c1c7a64.chunk.js",
+    "main.js.map": "/education-learning-app/static/js/main.3c1c7a64.chunk.js.map",
+    "runtime-main.js": "/education-learning-app/static/js/runtime-main.ca6cef49.js",
+    "runtime-main.js.map": "/education-learning-app/static/js/runtime-main.ca6cef49.js.map",
+    "static/js/2.ef9a3628.chunk.js": "/education-learning-app/static/js/2.ef9a3628.chunk.js",
+    "static/js/2.ef9a3628.chunk.js.map": "/education-learning-app/static/js/2.ef9a3628.chunk.js.map",
+    "index.html": "/education-learning-app/index.html",
+    "precache-manifest.a77cc8dafacd0ef81384d09e73b6cab5.js": "/education-learning-app/precache-manifest.a77cc8dafacd0ef81384d09e73b6cab5.js",
+    "service-worker.js": "/education-learning-app/service-worker.js",
+    "static/css/main.1363f571.chunk.css.map": "/education-learning-app/static/css/main.1363f571.chunk.css.map",
+    "static/js/2.ef9a3628.chunk.js.LICENSE.txt": "/education-learning-app/static/js/2.ef9a3628.chunk.js.LICENSE.txt",
+    "static/media/gone.mp4": "/education-learning-app/static/media/gone.70b583d6.mp4",
+    "static/media/lake.jpg": "/education-learning-app/static/media/lake.3d8ed9bd.jpg",
+    "static/media/trailer_hd.mp4": "/education-learning-app/static/media/trailer_hd.bfd19c4e.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca6cef49.js",
+    "static/js/2.ef9a3628.chunk.js",
+    "static/css/main.1363f571.chunk.css",
+    "static/js/main.3c1c7a64.chunk.js"
+  ]
+}
